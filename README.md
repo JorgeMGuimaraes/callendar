@@ -1,15 +1,12 @@
-# 2021.2
+# 2024.1
 
 ## Disciplinas
-
-GMA00155	CÁLCULO 2	R2		18:00/20:00		18:00/20:00
 
 | Código   | Disciplina                        | Turma | Observações                  |
 |----------|-----------------------------------|-------|------------------------------|
 | TCC00300 | Lab. Prog. Disp. Moveis           | BA    |                              |
 | TCC00344 | Lab. Prog. Paralela               | AA    |                              |
 | GMA00155 | Calculo II                        | R2    |                              |
-
 
 ## Horários
 
