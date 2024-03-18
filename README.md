@@ -2,11 +2,11 @@
 
 ## Disciplinas
 
-| Código   | Disciplina                        | Turma | Observações                  |
-|----------|-----------------------------------|-------|------------------------------|
-| TCC00300 | Lab. Prog. Disp. Moveis           | BA    |                              |
-| TCC00344 | Lab. Prog. Paralela               | AA    |                              |
-| GMA00155 | Calculo II                        | R2    |                              |
+| Código   | Disciplina                        | Turma        | Observações                  |
+|----------|-----------------------------------|--------------|------------------------------|
+| TCC00300 | Lab. Prog. Disp. Moveis           | BA (Lab 307) | Leandro                      |
+| TCC00344 | Lab. Prog. Paralela               | AA (Lab 305) | Lucia                        |
+| GMA00155 | Calculo II                        | R2 (H-305)   | Koropecki                    |
 
 ## Horários
 
@@ -18,8 +18,8 @@
 |13:00     |Almoço   |Almoço   |Almoço   |Almoço   |Almoço   |Almoço   |
 |14:00     |         |         |         |         |         |         |
 |16:00     |         |         |         | Moveis  |         |         |
-|18:00     |         |         |         |         |         |         |
-|20:00     |         | Calc II |         | Calc II |         |         |
+|18:00     |         | Calc II |         | Calc II |         |         |
+|20:00     |         |         |         |         |         |         |
 |22:00     |         |         |         |         |         |         |
 
 ## Entregas e Provas
