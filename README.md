@@ -24,16 +24,22 @@
 
 ## Entregas e Provas
 
-> Última atualização: 2024-03-17
-
 | Data  | Disciplina | Descrição | Obs.|
-|-------|------------|---|---|
+|-------|------------|----|----|
 | 25/04 | Calc II|   | E1 |    |
 | 20/06 | Calc II|   | E2 |    |
 | 25/06 | Calc II|   | VR |    |
 | 02/07 | Calc II|   | VS |    |
 
 ## Notas
+
+### Calc II
+
+MP = (0.2 * A) + (0.8 * E)   = 0.0
+A  = Atividades de aula      = 0.0
+E  = (0.4 * E1) + (0.6 * E2) = 0.0
+
+## Calendário
 
 > Última atualização: 21-03-2024
 
